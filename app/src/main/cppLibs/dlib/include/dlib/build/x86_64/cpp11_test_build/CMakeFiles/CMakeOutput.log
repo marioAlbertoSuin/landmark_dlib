@@ -1,0 +1,18 @@
+Performing C++ SOURCE FILE Test COMPILER_SUPPORTS_CXX11 succeeded with the following output:
+Change Dir: C:/dlib-19.22/dlib/build/x86_64/cpp11_test_build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Users/User/AppData/Local/Android/Sdk/cmake/3.18.1/bin/ninja.exe" "cmTC_f3eba"
+[1/2] Building CXX object CMakeFiles/cmTC_f3eba.dir/src.cxx.o
+[2/2] Linking CXX executable cmTC_f3eba
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_SUPPORTS_CXX0X succeeded with the following output:
+Change Dir: C:/dlib-19.22/dlib/build/x86_64/cpp11_test_build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Users/User/AppData/Local/Android/Sdk/cmake/3.18.1/bin/ninja.exe" "cmTC_70768"
+[1/2] Building CXX object CMakeFiles/cmTC_70768.dir/src.cxx.o
+[2/2] Linking CXX executable cmTC_70768
+
+Source file was:
+int main() { return 0; }

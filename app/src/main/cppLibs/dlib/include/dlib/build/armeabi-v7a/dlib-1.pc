@@ -1,0 +1,8 @@
+libdir=C:/Program Files (x86)/dlib/lib
+includedir=C:/Program Files (x86)/dlib/include
+
+Name: dlib
+Description: Numerical and networking C++ library
+Version: 19.22.0
+Libs: -L${libdir} -ldlib 
+Cflags: -I${includedir} 

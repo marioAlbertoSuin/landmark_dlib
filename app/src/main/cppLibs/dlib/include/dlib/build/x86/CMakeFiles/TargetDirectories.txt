@@ -1,0 +1,9 @@
+C:/dlib-19.22/dlib/build/x86/CMakeFiles/dlib.dir
+C:/dlib-19.22/dlib/build/x86/CMakeFiles/package.dir
+C:/dlib-19.22/dlib/build/x86/CMakeFiles/install/strip.dir
+C:/dlib-19.22/dlib/build/x86/CMakeFiles/package_source.dir
+C:/dlib-19.22/dlib/build/x86/CMakeFiles/install/local.dir
+C:/dlib-19.22/dlib/build/x86/CMakeFiles/install.dir
+C:/dlib-19.22/dlib/build/x86/CMakeFiles/edit_cache.dir
+C:/dlib-19.22/dlib/build/x86/CMakeFiles/rebuild_cache.dir
+C:/dlib-19.22/dlib/build/x86/CMakeFiles/list_install_components.dir

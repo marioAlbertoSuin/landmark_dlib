@@ -1,0 +1,9 @@
+C:/dlib-19.22/dlib/build/armeabi-v7a/CMakeFiles/dlib.dir
+C:/dlib-19.22/dlib/build/armeabi-v7a/CMakeFiles/package.dir
+C:/dlib-19.22/dlib/build/armeabi-v7a/CMakeFiles/install/strip.dir
+C:/dlib-19.22/dlib/build/armeabi-v7a/CMakeFiles/package_source.dir
+C:/dlib-19.22/dlib/build/armeabi-v7a/CMakeFiles/install/local.dir
+C:/dlib-19.22/dlib/build/armeabi-v7a/CMakeFiles/install.dir
+C:/dlib-19.22/dlib/build/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/dlib-19.22/dlib/build/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+C:/dlib-19.22/dlib/build/armeabi-v7a/CMakeFiles/list_install_components.dir
